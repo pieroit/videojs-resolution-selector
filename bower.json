@@ -5,7 +5,6 @@
   "authors": [
     "forked from https://github.com/dominic-p/videojs-resolution-selector"
   ],
-  "private": "false",
   "description": "Add a resolution selector button to Video.js to allow users to manually adjust the video quality.",
   "keywords": [
     "videojs",
